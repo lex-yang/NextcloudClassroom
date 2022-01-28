@@ -1,0 +1,1 @@
+CLASSROOM_ROOT=/Volumes/DataStore/Classroom/ docker-compose down -v
