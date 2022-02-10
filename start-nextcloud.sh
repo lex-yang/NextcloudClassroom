@@ -1,1 +1,1 @@
-CLASSROOM_ROOT=/Volumes/DataStore/Classroom/ docker-compose up -d
+CLASSROOM_ROOT=/Users/mca/Classroom PROXY_CONF=/Users/mca/ProxyServer docker-compose up -d
